@@ -49,8 +49,8 @@
 #include <dt-bindings/input/input.h>
 
 / {
-	model = "Xunlong Orange Pi Lite";
-	compatible = "xunlong,orangepi-lite", "allwinner,sun8i-h3";
+	model = "Ultra Affordable voron";
+	compatible = "uav,ultra-affordable-voron", "allwinner,sun8i-h3";
 
 	aliases {
 		/* The H3 emac is not used so the wifi is ethernet0 */
